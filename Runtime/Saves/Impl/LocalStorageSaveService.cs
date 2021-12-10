@@ -1,5 +1,5 @@
 ﻿using System.IO;
-using Unity.Plastic.Newtonsoft.Json;
+using Newtonsoft.Json;
 using UnityEngine;
 using wallet_unity_tool.Runtime.Saves.API;
 
